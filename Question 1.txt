@@ -1,0 +1,26 @@
+Question 1: 
+
+Data Engineer role in an organisation and its main responsibilities.
+
+1. Data engineer need to take/pull the data from various source and pass the
+result to the user(data scientist, data analyst, ai/ml engineer etc) for data training, analysis etc
+
+2. To pull data , data engineer need to build a pipeline using Java or Python ( Python is the most popular )
+
+3. ETL is the keypoint in building pipeline. It is a popular framework for designing data pipelines.ETL stands for:
+
+-Extract ( Extract data from cloud, database, excel, csv, txt etc)
+-Transform ( In excel, we filter the data manually. For data engineer, they need to set up the filter using Python)
+-Load ( Load back the data into database)
+
+4. Data engineer need to deliver:
+-The correct data
+-In the right form
+-To the right people
+-As efficiently as possible
+
+5. Dataengineer's responsibilities:
+-Ingest data from different sources
+-Optimiz edatabases for analysis
+-Remove corrupted data
+-Develop, construct, test and maintain data architectures
