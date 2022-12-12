@@ -1,3 +1,3 @@
 Question 4 c
 
-You can refer question_4_c.py. I explain it through my code tere.
+You can refer question_4_c.py. I explain it through code there.
